@@ -1,7 +1,7 @@
 **Добрый день!**
 
 Я Екатерина Тихонова, Android разработчик.  
-Мои контакты: :incoming_envelope: 6319002@gmail.com  :iphone: t.me/write_on_kotlin  
+Мои контакты: :incoming_envelope: 6319002@gmail.com  :iphone: t.me/write_on_kotlin :link: https://taplink.cc/write_on_kotlin 
 
 **Знаю и умею применять:**
 
